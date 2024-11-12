@@ -1,0 +1,20 @@
+Web 1.0
+The "Static Web," marks the early era of the World Wide Web. 
+During this phase, websites had static pages with content that rarely changed. 
+The focus was primarily on delivering information, like reading a digital brochure or a static document. 
+Interaction was minimal, and users were passive recipients of information, consuming content. 
+Examples of Web 1.0 technologies include HTML and CSS.
+
+Web 2.0
+The "Social Web" or "Interactive Web," revolutionized the internet by promoting user interaction and content creation. 
+This era saw the rise of social media platforms, blogs, wikis, and other collaborative tools that allowed users to generate and share content. 
+Websites became more dynamic and responsive. 
+The focus shifted from static content delivery to interactive, community-driven platforms where users could engage with one another. 
+Notable examples include Facebook, Wikipedia, and YouTube.
+
+Web 3.0
+The "Semantic Web," represents the next evolution of the internet, aiming to create a more intelligent and connected web. 
+This era focuses on artificial intelligence, machine learning, and blockchain technologies to enable more meaningful and personalized interactions. 
+The goal is to develop systems that understand and interpret data in a human-like way, facilitating more efficient information usage. 
+Web 3.0 also emphasizes decentralization, providing greater control and privacy to users by reducing reliance on centralized entities. 
+Examples of Web 3.0 technologies include decentralized applications (dApps) and smart contracts on blockchain platforms like Ethereum.
