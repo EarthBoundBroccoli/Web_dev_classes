@@ -1,0 +1,33 @@
+body { background-image: url('portfolio_background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.img-fit{
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.personal_information{
+    margin-top: 150px;
+}
+
+.two_tables{
+    font-size: 120%;
+}
+
+
+.table th, .table td {
+    background-color: transparent;
+}
+
+.website_button{
+    margin-top: -8px;
+    margin-left: -10px;
+    font-size: 110%;
+}
