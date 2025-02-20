@@ -1,0 +1,22 @@
+<carsInShop>
+    <car>
+        <quantity> 10 </quantity>
+        <price> 100,000$ </price>
+        <models>
+            <model>BMW 3 Series</model>
+            <model>BMW X5</model>
+            <model>BMW M3 GTR</model>
+        </models>
+    </car>
+
+    <car>
+        <quantity> 50 </quantity>
+        <price> 125,999$ </price>
+        <models>
+            <model>Mercedes-Benz C-class</model>
+            <model>Mercedes-Benz S-class</model>
+            <model>Mercedes-Benz GLE</model>
+        </models>
+    </car>
+
+</carsInShop>

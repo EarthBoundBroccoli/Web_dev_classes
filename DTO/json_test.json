@@ -1,0 +1,26 @@
+{
+    "itemsInTheShop" : [
+        {
+            "name" : "PS4",
+            "quantity" : "12",
+            "placements" : ["A3", "B3", "C3"]
+        }, 
+
+        {
+            "name" : "XBOX",
+            "quantity" : "3",
+            "placements" : ["A1"]
+        }, 
+
+        {
+            "name" : "RTX 4050",
+            "quantity" : "10",
+            "placements" : ["A1", "B2"]
+        }
+
+
+    ]
+
+
+
+}

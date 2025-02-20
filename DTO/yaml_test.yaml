@@ -1,0 +1,23 @@
+recipes:
+  chickenCurry : 
+    numOfIngredients : 5
+    ingredients: 
+    - chicken
+    - onion
+    - tomato
+    - yogurt 
+    - oil
+
+  soup:
+    numOfIngredients : 3
+    ingredients : 
+    - carrot 
+    - otato 
+    - olive oil
+
+  sushi :
+    numOfIngredients : 3
+    ingredients : 
+    - rice 
+    - cucumber 
+    - wasabi
